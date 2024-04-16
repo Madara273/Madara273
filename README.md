@@ -1,4 +1,5 @@
 ### Hi there 👋
+My main passion is modding and flashing Android devices, I research and improve various aspects of the operating system, creating simple mods and other solutions. At the same time, I delve into the development of Telegram bots using python code, for functional and innovative solutions.
 
 <!--
 **Madara273/Madara273** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
