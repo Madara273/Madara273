@@ -1,6 +1,7 @@
 ### Hi there 👋
 My main passion is modding and flashing Android devices, I research and improve various aspects of the operating system, creating simple mods and other solutions.
 
+NOT A DEVELOPER, BUT A FAN
 <!--
 **Madara273/Madara273** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
