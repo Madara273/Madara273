@@ -1,5 +1,4 @@
 ### Hi there 👋
-My main passion is modding and flashing Android devices, I research and improve various aspects of the operating system, creating simple mods and other solutions.
 
 NOT A DEVELOPER, BUT A FAN
 <!--
