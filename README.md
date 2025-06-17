@@ -2,16 +2,16 @@
 
 <p align="left">
   <img 
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF00&vCenter=true&width=550&lines=›+Silence+in+the+console+—+best+response.;›+Code+remains+after+the+words.;›+Others+leave+footprints,+I+leave+signals." 
-    alt="Typing animation" 
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF00&width=600&lines=%24+Silence+in+the+console+—+best+response.;%24+Code+remains+after+the+words.;%24+While+others+leave+footprints,+I+leave+signals." 
+    alt="Typing Animation"
   />
 </p>
 
 <p align="left">
   <img 
-    src="https://skillicons.dev/icons?i=linux,bash,git,python,c,cpp,neovim,github" 
+    src="https://skillicons.dev/icons?i=linux,bash,git,python,cpp,neovim,github" 
     width="300" 
-    alt="Skills" 
+    alt="Skill Icons"
   />
 </p>
 
