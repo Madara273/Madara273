@@ -1,52 +1,78 @@
-### Hi there 👋
-┌───────────────────────────────────────────────────────────────┐
-│ Raven Never                                                   │
-├───────────────────────────────────────────────────────────────┤
-│ Silence in the console — the best response.                  │
-│ Code — what remains after the words.                         │
-│ While others leave footprints, I leave signals. 🇺🇦          │
-└───────────────────────────────────────────────────────────────┘
+raven@void:~$ sudo boot_sequence --init stealth_mode
 
-> Who am I?
+[BOOT] Initializing system...
+[ OK ] Shadow kernel loaded
+[ OK ] Stealth mode: ACTIVE
+[LOGIC] Decoding interface... Done
+[TRACE] Signal found: Raven Hoxs
+[SYS] ███ SYSTEM ONLINE ███
+
+> USER: Raven Hoxs 🕶️
+> LOCATION: 🇺🇦
+> STATUS: Listening in silence...
+> MESSAGE:
+  Silence in the console — the best response.
+  Code — what remains after the words.
+  While others leave footprints, I leave signals.
+
+------------------------------------------------------------
+
+[IDENTITY]
 
 Logic in chaos.  
 Structure in randomness.  
-Everyone sees the interface. I read the logic.
+Everyone sees the interface. I read the logic.  
+I’m the one working in the shadows while others shine.  
+The tools are simple. The actions — deliberate. The presence — silent.
 
-I’m the one who works in the shadows while others shine.  
-Tools — minimal. Actions — intentional. Presence — invisible.
+------------------------------------------------------------
 
-> Not a hero. Not a messiah.  
-> Just someone who sees the pattern in the noise.
+[PRINCIPLES]
 
-I don’t shine — I scan.  
-I don’t log — I execute.  
-I don’t ask — I act.
+🧩  Minimum noise — maximum action  
+📡  Systems should serve humans, not the other way around  
+🔒  Security isn’t an option — it’s a state of mind  
+🧬  Anything that can be automated — will be  
+❌  I don’t leave TODOs — I just do
 
+------------------------------------------------------------
 
-> Principles:
+[ARTIFACTS LEFT BEHIND]
 
-- 🧩 Minimal noise. Maximum action.  
-- 📡 Systems must serve people — not the other way around  
-- 🔒 Security isn’t an option — it’s a mindset  
-- 🧬 If it can be automated — it will be  
-- ❌ `TODO`? I don’t leave trails. I finish them.
+- Lines of code that explain themselves  
+- Tools that don’t ask for attention  
+- Traces visible only to those who seek
 
+------------------------------------------------------------
 
-> What I leave behind:
+[CONTACT]
 
-- 🧠 Self-explanatory code  
-- 🧰 Quiet tools that just work  
-- 🐾 Traces — seen only by those who look closely
+> Only for those who know where to look.
 
+[SKILLS]
 
-> Tools:
+| linux | bash | git | python | c | sqlite | neovim | github |
 
-[ linux | bash | git | python | c | sqlite | neovim | github | docker ]
+------------------------------------------------------------
 
+raven@void:~$ ./inject --mode=silent --target=world
 
-> Contact:
+[ACCESS GRANTED]
+[STEALTH PROTOCOL DEPLOYED]
 
-Only for those who read between the lines.  
-Signals, not noise.  
-Look deeper.
+>>> EXECUTING FINAL SEQUENCE...
+>>> SIGNAL FOUND
+>>> SENDING...
+
+TraceRoute:// ███████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+
+> ERROR: VISIBILITY BREACH
+> SYSTEM CORE BREACHED – INITIATING SELF-ERASE...
+
+[✖] CORE UNSTABLE  
+[✖] ECHO DETECTED  
+[!] SYSTEM DISSOLVING...
+
+█████████████████████████████████████████████████████████████████████████████
+
+[ GOODBYE. ]
