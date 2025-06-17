@@ -45,7 +45,29 @@ The tools are simple. The actions — deliberate. The presence — silent.
 
 > Only for those who know where to look.
 
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=%F0%9F%95%B6%EF%B8%8F+Raven+Hoxs;System+Ready..." alt="Typing SVG" />
+</h1>
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,bash,git,python,c,sqlite,neovim,github" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="matrix animation" />
 </p>
 
+<p align="center" style="color:#00FF00">
+  Silence is the best output.<br>
+  Code is what's left after the words.<br>
+  <em>While others leave footprints, I leave signals.</em><br>
+  <strong>🇺🇦</strong>
+</p>
+
+---
+
+### ☁️ Who am I?
+
+```txt
+> Not a hero. Not a messiah.  
+> Just the one who sees the pattern in the noise.
+
+I don't shine — I scan.  
+I don't log — I execute.  
+I don't ask — I act.
