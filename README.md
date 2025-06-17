@@ -1,5 +1,13 @@
 <h1 align="left">🕶️ Raven Never</h1>
 
+<pre align="left" style="color:#00FF00; font-family:'Fira Code', monospace; font-size: 16px;">
+[ RavenOS v1.0 — boot sequence initiated... ]
+>> Initializing neural core...
+>> Loading stealth modules...
+>> Establishing encrypted shell...
+>> Connection: SECURE [OK]
+</pre>
+
 <p align="left">
   <img 
     src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF00&width=600&lines=%24+Silence+in+the+console+—+best+response.;%24+Code+remains+after+the+words.;%24+While+others+leave+footprints,+I+leave+signals." 
@@ -7,19 +15,10 @@
   />
 </p>
 
-<p align="left">
-  <img 
-    src="https://skillicons.dev/icons?i=linux,bash,git,python,cpp,neovim,github" 
-    width="300" 
-    alt="Skill Icons"
-  />
-</p>
-
 <pre align="left" style="color:#00FF00; font-family:'Fira Code', monospace; font-size: 16px;">
 $ echo "Silence in the console — the best response."
 $ echo "Code is what's left after the words."
 $ echo "While others leave footprints, I leave signals."
-$ 🇺🇦
 </pre>
 
 raven@void:~$ sudo boot_sequence --init stealth_mode
